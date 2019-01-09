@@ -55,6 +55,8 @@ src/LocalMapping.cc
 src/LoopClosing.cc
 src/ORBextractor.cc
 src/ORBmatcher.cc
+src/DNNextractor.cc
+src/DNNmatcher.cc
 src/FrameDrawer.cc
 src/Converter.cc
 src/MapPoint.cc
